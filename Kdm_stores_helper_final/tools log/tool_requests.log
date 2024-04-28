@@ -1,0 +1,90 @@
+2023-10-08 16:11:42,506 - INFO - Tool Request: Tool Name - Hammer, Requester - John Doe, Date - 2023-10-25
+2023-10-08 16:14:31,181 - INFO - Tool Removed: Tool Name - Hammer
+2023-10-08 16:15:23,067 - INFO - Tool Request: Tool Name - Hammer, Requester - John Doe, Date - 2023-10-25
+2023-10-08 16:18:24,528 - INFO - Tool Request: Tool Name - Hammer, Requester - John Doe, Date - 2023-10-25
+2023-10-08 16:27:26,437 - INFO - Tool Request: Tool Name - M5 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-08 21:20:05,253 - INFO - Tool Removed: Tool Name - Hammer
+2023-10-08 21:21:52,344 - INFO - Tool Removed: Tool Name - M5 tap
+2023-10-08 21:34:21,997 - INFO - Tool Request: Tool Name - M5 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-08 21:35:42,000 - INFO - Tool Request: Tool Name - M6 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-08 21:35:42,014 - INFO - Tool Request: Tool Name - M6 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-08 21:35:42,028 - INFO - Tool Request: Tool Name - M7 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-08 21:35:42,038 - INFO - Tool Request: Tool Name - M8 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-08 21:36:00,798 - INFO - Tool Removed: Tool Name - M6 tap
+2023-10-10 21:49:09,628 - INFO - Tool Request: Tool Name - tool, Requester - joseph, Date - 10-10-2023
+2023-10-10 21:50:08,524 - INFO - Tool Request: Tool Name - m2, Requester - graham, Date - 09-10-2023
+2023-10-11 20:31:23,844 - INFO - Tool Request: Tool Name - m3 tap, Requester - graham, Date - 11-10-2023
+2023-10-11 20:31:28,773 - INFO - Tool Request: Tool Name - m3 tap, Requester - graham, Date - 11-10-2023
+2023-10-11 20:41:31,461 - INFO - Tool Request: Tool Name - m10, Requester - m3, Date - 11-10-2023
+2023-10-11 20:44:00,256 - INFO - Tool Request: Tool Name - tool, Requester - me, Date - 11-10-2023
+2023-10-11 20:46:57,073 - INFO - Tool Request: Tool Name - anothet tool, Requester - , Date - 11-10-2023
+2023-10-11 20:50:00,495 - INFO - Tool Request: Tool Name - toolsd, Requester - , Date - 11-10-2023
+2023-10-11 20:52:22,637 - INFO - Tool Request: Tool Name - m7, Requester - , Date - 11-10-2023
+2023-10-15 16:28:31,883 - INFO - Tool Request: Tool Name - M6 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-15 16:28:31,897 - INFO - Tool Request: Tool Name - M6 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-15 16:28:31,912 - INFO - Tool Request: Tool Name - M7 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-15 16:28:31,926 - INFO - Tool Request: Tool Name - M8 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-15 16:29:00,928 - INFO - Tool Request: Tool Name - M6 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-15 16:29:00,941 - INFO - Tool Request: Tool Name - M6 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-15 16:29:00,953 - INFO - Tool Request: Tool Name - M7 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-15 16:29:00,967 - INFO - Tool Request: Tool Name - M8 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-15 16:29:47,974 - INFO - Tool Request: Tool Name - M6 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-15 16:29:47,988 - INFO - Tool Request: Tool Name - M6 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-15 16:29:48,002 - INFO - Tool Request: Tool Name - M7 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-15 16:29:48,017 - INFO - Tool Request: Tool Name - M8 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-15 16:30:15,242 - INFO - Tool Request: Tool Name - M6 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-15 16:30:15,256 - INFO - Tool Request: Tool Name - M6 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-15 16:30:15,270 - INFO - Tool Request: Tool Name - M7 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-15 16:30:15,281 - INFO - Tool Request: Tool Name - M8 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-15 16:31:16,878 - INFO - Tool Request: Tool Name - M6 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-15 16:31:16,891 - INFO - Tool Request: Tool Name - M6 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-15 16:31:16,904 - INFO - Tool Request: Tool Name - M7 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-15 16:31:16,917 - INFO - Tool Request: Tool Name - M8 tap, Requester - Joseph, Date - 2023-10-25
+2023-10-15 21:06:05,406 - INFO - Tool returned: Tool Name - tool
+2023-10-16 20:22:24,714 - INFO - Tool returned: Tool Name - tool
+2023-10-16 20:23:07,410 - INFO - Tool returned: Tool Name - tool
+2023-10-16 20:23:12,172 - INFO - Tool returned: Tool Name - tool
+2023-10-16 20:23:17,425 - INFO - Tool returned: Tool Name - tool
+2023-10-16 20:23:28,224 - INFO - Tool returned: Tool Name - tool
+2023-10-16 20:44:09,281 - INFO - Tool Request: Tool Name - m10 tap, Requester - graham, Date - 16-10-2023
+2023-10-16 20:46:24,053 - INFO - Tool returned: Tool Name - tool
+2023-10-16 20:46:28,754 - INFO - Tool returned: Tool Name - tool
+2023-10-16 20:46:34,191 - INFO - Tool returned: Tool Name - tool
+2023-10-16 20:46:38,775 - INFO - Tool returned: Tool Name - tool
+2023-10-16 20:46:44,160 - INFO - Tool returned: Tool Name - tool
+2023-10-16 20:46:48,507 - INFO - Tool returned: Tool Name - tool
+2023-10-16 20:46:52,759 - INFO - Tool returned: Tool Name - tool
+2023-10-16 20:46:57,108 - INFO - Tool returned: Tool Name - tool
+2023-10-16 20:47:02,531 - INFO - Tool returned: Tool Name - tool
+2023-10-16 20:47:10,600 - INFO - Tool returned: Tool Name - tool
+2023-10-16 20:47:18,063 - INFO - Tool returned: Tool Name - tool
+2023-10-29 18:37:38,135 - INFO - Tool Request: Tool Name - too, Requester - me, Date - 29-10-2023
+2023-10-29 18:37:47,387 - INFO - Tool returned: Tool Name - tool
+2023-10-29 19:44:49,958 - INFO - Tool Request: Tool Name - m6 tap, Requester - james, Date - 27-10-2023
+2023-10-29 19:44:51,381 - INFO - Tool Request: Tool Name - m6 tap, Requester - james, Date - 27-10-2023
+2023-10-29 19:47:59,817 - INFO - Tool returned: Tool Name - tool
+2023-10-29 19:48:17,475 - INFO - Tool Request: Tool Name - m5 tap, Requester - aiden, Date - 29-10-2023
+2023-10-29 19:48:34,584 - INFO - Tool returned: Tool Name - tool
+2024-04-02 20:47:44,820 - INFO - Tool returned: Tool Name - tool
+2024-04-03 20:50:25,280 - INFO - Tool Request: Tool Name - m3 tap, Requester - vinny, Date - 03-04-2024
+2024-04-05 20:53:53,442 - INFO - Tool Request: Tool Name - M6 tap, Requester - Joseph, Date - 2023-10-25
+2024-04-05 20:53:53,444 - INFO - Tool Request: Tool Name - M6 tap, Requester - Joseph, Date - 2023-10-25
+2024-04-05 20:53:53,446 - INFO - Tool Request: Tool Name - M7 tap, Requester - Joseph, Date - 2023-10-25
+2024-04-05 20:53:53,447 - INFO - Tool Request: Tool Name - M8 tap, Requester - Joseph, Date - 2023-10-25
+2024-04-05 20:54:20,237 - INFO - Tool returned: Tool Name - tool
+2024-04-05 21:10:57,058 - INFO - Tool Request: Tool Name - M6 tap, Requester - Joseph, Date - 25-10-2023
+2024-04-05 21:10:57,060 - INFO - Tool Request: Tool Name - M6 tap, Requester - Joseph, Date - 25-10-2023
+2024-04-05 21:10:57,062 - INFO - Tool Request: Tool Name - M7 tap, Requester - Joseph, Date - 25-10-2023
+2024-04-05 21:10:57,064 - INFO - Tool Request: Tool Name - M8 tap, Requester - Joseph, Date - 25-10-2023
+2024-04-07 17:42:49,802 - INFO - Tool Request: Tool Name - m6tap, Requester - vinny, Date - 07-04-2024
+2024-04-18 20:10:55,330 - INFO - Tool Request: Tool Name - pressure test kit, Requester - tommy, Date - 18-04-2024
+2024-04-18 20:13:22,911 - INFO - Tool returned: Tool Name - tool
+2024-04-19 22:20:10,543 - INFO - Tool returned: Tool Name - tool
+2024-04-20 17:31:27,919 - INFO - Tool Request: Tool Name - M6 tap and holder, Requester - Marty, Date - 20-04-2024
+2024-04-21 21:08:10,475 - INFO - Tool Request: Tool Name - m8 tap, Requester - graham, Date - 21-04-2024
+2024-04-21 21:08:32,667 - INFO - Tool returned: Tool Name - tool
+2024-04-21 21:11:28,581 - INFO - Tool Request: Tool Name - m6 tab, Requester - elie, Date - 21-04-2024
+2024-04-21 21:11:52,177 - INFO - Tool Request: Tool Name - radiator pressure test, Requester - Tommy, Date - 21-04-2024
+2024-04-21 21:11:58,862 - INFO - Tool returned: Tool Name - 1
+2024-04-21 21:15:21,478 - INFO - Tool Request: Tool Name - timing kit, Requester - Raymond, Date - 21-04-2024
+2024-04-21 21:17:36,723 - INFO - Tool returned: Tool Name - 1
