@@ -20,6 +20,7 @@ locations1 = ["VOR-01-01", "VOR-01-02", "VOR-01-03", "VOR-01-04", "VOR-01-05", "
 
              ]
 
+
 divisions = [
     ("Small Tools", ["images/small_tools.png", "images/small_tools.png"]),
     ("Plant", ["images/plant.png", "images/plant.png"]),
